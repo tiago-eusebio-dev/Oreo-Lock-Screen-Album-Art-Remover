@@ -5,7 +5,7 @@ Tired of having your Lock Screen's beautiful wallpaper replaced by a horrible al
 Install this module and your headaches are gone!
 
 <p align="center">
-  <img src="https://dl.xda-developers.com/4/6/4/5/5/2/1/Screenshot.png?key=ixUmn6F5UfBvC26Cd92Gpw&ts=1542501054">
+  <img src="https://dl.xda-developers.com/4/6/4/5/5/2/1/Screenshot.png?key=sYPRWNq01_NsdTcsxBkxtQ&ts=1542502774">
 </p>
 
 <p align="center">
