@@ -1,6 +1,15 @@
 Oreo Lock Screen Album Art Remover
 ==========
 
-Xposed module to disable the Lockscreen's Album Art on devices running Android 8.x (Oreo)
+Tired of having your Lock Screen's beautiful wallpaper replaced by a horrible album art?
+Install this module and your headaches are gone!
+
+<p align="center">
+  <img src="https://dl.xda-developers.com/4/6/4/5/5/2/1/Screenshot.png?key=ixUmn6F5UfBvC26Cd92Gpw&ts=1542501054">
+</p>
+
+<p align="center">
+  <a href="https://forum.xda-developers.com/xposed/modules/app-oreo-lock-screen-album-art-remover-t3868485"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
+</p>
 
 Copyright (C) 2018 tfae (tfaeusebio@gmail.com)
