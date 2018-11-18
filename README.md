@@ -30,7 +30,7 @@ Install this module and your headaches are gone!
 
 
 ## Credits
-* rovo89@xda for Xposed
+* <a href="https://forum.xda-developers.com/member.php?u=4419114">rovo89@xda</a> for Xposed
 
 
 Copyright (C) 2018 tfae (tfaeusebio@gmail.com)
