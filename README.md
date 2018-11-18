@@ -13,4 +13,9 @@ Install this module and your headaches are gone!
   <a href="https://forum.xda-developers.com/xposed/modules/app-oreo-lock-screen-album-art-remover-t3868485"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
 </p>
 
+## Compatibility
+* [![Xposed](https://img.shields.io/badge/Xposed-v90--beta3-orange.svg)](https://forum.xda-developers.com/showthread.php?t=3034811)
+* [![Android Oreo+](https://img.shields.io/badge/Oreo-8.0+-blue.svg)](https://www.android.com/versions/oreo-8-0/)
+* Close to Stock/AOSP ROMs (tested on OxygenOS OB30 for OP3T)
+
 Copyright (C) 2018 tfae (tfaeusebio@gmail.com)
