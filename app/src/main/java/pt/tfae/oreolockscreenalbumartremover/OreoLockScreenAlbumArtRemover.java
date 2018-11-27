@@ -4,7 +4,7 @@ import de.robv.android.xposed.*;
 import de.robv.android.xposed.callbacks.*;
 
 public class OreoLockScreenAlbumArtRemover implements IXposedHookLoadPackage {
-//  private static final String TAG = OreoLockScreenAlbumArtRemover.class.getSimpleName() + ": ";
+ private static final String TAG = "OreoLockScreenAlbumArtRemover: ";
 
   public void handleLoadPackage(final XC_LoadPackage.LoadPackageParam lpparam) throws Throwable {
 
@@ -17,7 +17,7 @@ public class OreoLockScreenAlbumArtRemover implements IXposedHookLoadPackage {
           }
         });
       } catch(Throwable t) {
-//        XposedBridge.log(TAG + t);
+        XposedBridge.log(TAG + t);
       }
     }
   }
